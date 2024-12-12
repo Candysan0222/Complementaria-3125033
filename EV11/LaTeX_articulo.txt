@@ -1,0 +1,68 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\title{Golden Travel: Plataforma Digital de Turismo Regional}
+\author{Manuel Diez Corredor \\ Patricia Sarmiento Ruiz}
+\date{10 de diciembre de 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Resumen}
+El presente artículo demuestra los resultados obtenidos del proyecto ``Golden Travel''. Este proyecto surge a partir de un análisis donde se concluyó que hay una necesidad a la hora de viajar y conocer lugares, que no se cuenta con una reservación y transporte seguro para poder llegar a lugares turísticos cercanos con el fin de disfrutar en familia o con amigos.
+
+Para llegar a esta conclusión, se llevaron a cabo entrevistas y encuestas en las que, turistas y personas del común, nos comentaban la necesidad de una buena seguridad y reservación a la hora de realizar estos cortos viajes. Se utilizó una metodología de investigación cuantitativa que nos permitió descubrir las percepciones y experiencias de la población afectada, lo que evidenció la situación actual.
+
+\textbf{Palabras clave:} viajes Huila, transportes vacacionales.
+
+\section{Introducción}
+El proyecto Golden Travel tiene como objetivo principal abordar las deficiencias existentes en la planificación y seguridad de viajes turísticos en el departamento del Huila, ofreciendo una plataforma digital integral que optimiza la experiencia de viaje para familias y grupos.
+
+En un contexto donde el turismo requiere información confiable y herramientas de planificación eficientes, es crucial resolver los desafíos relacionados con la seguridad, logística y preparación de viajes. La iniciativa Golden Travel surge como respuesta a esta necesidad apremiante en el sector turístico regional.
+
+\section{Metodología}
+En el desarrollo del proyecto Golden Travel, se empleó la metodología Modelo Vista Controlador (MVC), una arquitectura de diseño que permitió una estructuración clara y eficiente del desarrollo de la plataforma web de turismo.
+
+Se establecieron roles específicos para cada miembro del equipo, facilitando la ejecución de tareas y manteniendo una separación precisa de responsabilidades en el proceso de desarrollo.
+
+\section{Resultados}
+\subsection{Aplicación Web}
+La aplicación web presentó las siguientes funcionalidades:
+\begin{itemize}
+    \item Registro de usuarios (administrador)
+    \item Visualización del perfil, modificar datos y eliminar (administrador)
+    \item Registro de viajes (administrador)
+    \item Agendación de viajes, ofertas (cliente)
+    \item Visualización de viajes, ofertas, información de la empresa, perfil
+    \item Control de creación y eliminación de viajes, ofertas, cuentas de usuario
+\end{itemize}
+
+\subsection{Aplicativo Móvil}
+El aplicativo móvil incluyó:
+\begin{itemize}
+    \item Registro de perfil y visualización de datos
+    \item Visualización de tickets y agendación
+    \item Visualización de viajes y ofertas disponibles
+\end{itemize}
+
+\section{Conclusiones}
+Golden Travel ha emergido como una solución innovadora en el panorama del turismo regional, presentando una plataforma web que transciende las expectativas iniciales del proyecto.
+
+\section{Agradecimientos}
+Expresamos nuestra más profunda gratitud al SENA y a Carlos Julio Cadena por su apoyo en este proyecto.
+
+\section{Referencias}
+\begin{enumerate}
+    \item García, M. (2023). Innovación tecnológica en turismo regional. \textit{Revista Turismo Digital}.
+    \item Ramírez, C. (2022). Seguridad y planificación en turismo familiar. \textit{Periódico Viajes y Destinos}.
+    \item Sánchez, P. (2023). Guía para escribir artículos de viaje. \textit{Blog de Escritura de Viajes}.
+    \item Martínez, L. (2024). Metodologías ágiles en proyectos web turísticos. \textit{Revista Tecnología y Gestión}.
+    \item Torres, R. (2022). Diseño de experiencia de usuario en plataformas turísticas. \textit{Journal of Digital Experience}.
+\end{enumerate}
+
+\end{document}
